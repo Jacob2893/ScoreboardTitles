@@ -3,6 +3,6 @@ Plugin do dodawaniu tytułów obok nicku gracza w tabeli
 
 Komendy:
 /settitle <tytuł>
-/settitle <nick> <tytuł>
+/settitle <nazwagracza> <tytuł>
 /removetitle
-/removetitle <nick>
+/removetitle <nazwagracza>
