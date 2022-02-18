@@ -1,0 +1,12 @@
+name: ScoreboardTitles
+version: '1.0-SNAPSHOT'
+main: sgmaffija.scoreboardtitles.ScoreboardTitles
+api-version: 1.16
+authors: [ Jacxb77 ]
+description: Plugin dodający tytuły wyświetlające się pod Tab'em obok nicku gracza
+
+commands:
+  settitle:
+    description: Ustawia graczowi tytuł obok nicku
+  removetitle:
+    description: Usuwa graczowi tytuł obok nicku
